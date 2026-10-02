@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="surface">#0B1326</color>
+    <color name="surface_container">#171F33</color>
+    <color name="on_surface">#DAE2FD</color>
+    <color name="on_surface_variant">#BDCABE</color>
+    <color name="primary">#77DA9F</color>
+    <color name="primary_container">#198754</color>
+    <color name="secondary">#FFB95F</color>
+    <color name="branco">#FFFFFF</color>
+    <color name="preto">#000000</color>
+</resources>
