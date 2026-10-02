@@ -4,7 +4,7 @@ Aplicativo Android desenvolvido para a atividade parcial de Android Views (XML) 
 
 ## Objetivo do aplicativo
 
-O aplicativo apresenta uma lista de times do futebol brasileiro. Ao tocar em um dos times, o usuário é levado para uma tela de detalhes que mostra o escudo, o apelido, a cidade, o ano de fundação e o estádio. Nessa tela também é possível marcar o time como favorito tocando na estrela da barra superior e voltar para a lista pela seta.
+O aplicativo apresenta uma lista de times do futebol brasileiro. Ao tocar em um dos times, o usuário é levado para uma tela de detalhes que mostra o escudo, a cidade, o ano de fundação e o estádio. Nessa tela também é possível marcar o time como favorito tocando na estrela da barra superior e voltar para a lista pela seta.
 
 Todos os dados exibidos são simulados diretamente no código, então o projeto não depende de API, banco de dados, chaves ou senhas para funcionar.
 
